@@ -9,7 +9,7 @@
 
 using namespace std;
 
-#define NAMEDPIPE_NAME "/tmp/chatpipe666"
+#define NAMEDPIPE_NAME "/tmp/my_chatpipe"
 #define BUFSIZE        50
 
 void My_OUT(char *arr) {
